@@ -1,35 +1,29 @@
-Greetings! I'm Rodrigo, a DevOps Engineer with 5+ years of experience, and I'm here to help your business implement DevOps best practices and accompany you on your tech journey.
+#### Hi, I'm Rodrigo:
 
-My Specialties:
+- Information technology graduate at Racunarski Fakultet - Belgrade
+- You can reach me with the links below
 
-🚀 AWS: I excel at architecting, deploying, and managing AWS resources. I'll craft a robust, highly available, and cost-efficient cloud ecosystem tailored to your needs.
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devsecops.pt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
-🔨 Terraform: I possess strong proficiency in Terraform, enabling me to efficiently automate infrastructure provisioning and management, ensuring scalability and reliability for cloud-based projects.
+#### Some of the technologies I have worked with
 
-🚀 CI/CD: With my CI/CD experience, I'll automate your deployments, making software releases smooth, consistent, and error-free.
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032&color=4C4C4C)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=black&color=4C4C4C)
+![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=195598&color=4C4C4C)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=EAE11C&color=4C4C4C)
+![KAFKA](https://img.shields.io/badge/-Kafka-222222?style=flat&logo=kafka&logoColor=white&color=4C4C4C)
+![elasticsearch](https://img.shields.io/badge/-elasticsearch-222222?style=flat&logo=elasticsearch&logoColor=F05032&color=4C4C4C)
+![Jenkins](https://img.shields.io/badge/-jenkins-222222?style=flat&logo=jenkins&logoColor=F05032&color=4C4C4C)
+![Docker](https://img.shields.io/badge/-docker-222222?style=flat&logo=docker&logoColor=41D5EC&color=4C4C4C)
+![Bash](https://img.shields.io/badge/-bash-222222?style=flat&logo=shell&logoColor=C5CC2A&color=4C4C4C)
+![AWS](https://img.shields.io/badge/-aws-222222?style=flat&logo=amazon&logoColor=F1B924&color=4C4C4C)
 
-🐳 Docker: I possess a deep expertise in containerization, with Docker as my primary tool. I excel in packaging applications for seamless deployment and efficient scalability.
+![github stats](https://github-readme-stats.vercel.app/api?username=rodrigo-engineer&show_icons=true)
 
-🛡️ Linux: I specialize in the Linux server administration. I manage CentOS and Ubuntu, ensuring your systems operate with precision.
-
-🤖 Ansible Configuration Management: I use Ansible to maintain any kind of infrastructure.
-
-📊 Monitoring & Logging: I use an extensive array of monitoring tools, including the ELK Stack, Grafana, Zabbix, Prometheus, Splunk, DataDog, PagerDuty, and others. Your systems will remain under vigilant surveillance, shielding you from unexpected surprises.
-
-🐙 Kubernetes: Navigating the Kubernetes ecosystem, I ensure your containerized applications operate seamlessly.
-
-🔒 Security: With a sharp focus on protecting your digital assets, I employ advanced security measures to ensure your systems are fortified against potential threats.
-
-💾 Databases: Proficient in MySQL and PostgreSQL, ensuring efficient and reliable data management.
-
-📨 Message Brokers: Proficient in a range of messaging systems, from Kafka to RabbitMQ, I ensure the smooth and efficient flow of data.
-
-🌐 VPN: With OpenVPN, I oversee and maintain secure connections with vigilance, ensuring your data remains protected.
-
-🌐 DNS: Whether it's Route53 or CloudFlare, I ensure seamless domain management.
-
-📦 Artifact Management: I leverage JFrog Artifactory and Nexus to manage software artifacts with finesse.
-
-🎫 Project Management: I excel in orchestrating project tickets and documentation, fostering efficient collaboration through the use of Jira and Confluence.
-
-If you need swift solutions, have questions about your AWS environment, or have a long-term project with a full-time commitment, I'm ready to bring your tech goals into reality. Let's connect and elevate your digital journey together!
+<p style="text-align:right">
+    <img src="http://views.whatilearened.today/views/github/rodrigo-engineer/views.svg"/>
+    <a href="https://github.com/rodrigo-engineer/"><img src="https://img.shields.io/github/followers/rodrigo-engineer?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/rodrigo-engineer?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+    <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
+</p>
