@@ -1,6 +1,6 @@
 #### Hi, I'm Rodrigo:
 
-- Information technology graduate at University of Lisbon - Belgrade
+- Information technology graduate at University of Lisbon - Lisbon
 - You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devsecops.pt@gmail.com)
