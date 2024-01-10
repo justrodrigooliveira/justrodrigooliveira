@@ -3,8 +3,8 @@
 - Information technology graduate at University of Lisbon - Lisbon
 - You can reach me with the links below
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devsecops.pt@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:superrodrigooliveira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-XXXXXX?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 #### Some of the technologies I have worked with
 
