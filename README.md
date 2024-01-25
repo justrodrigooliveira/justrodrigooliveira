@@ -19,7 +19,7 @@
 ![Bash](https://img.shields.io/badge/-bash-222222?style=flat&logo=shell&logoColor=C5CC2A&color=4C4C4C)
 ![AWS](https://img.shields.io/badge/-aws-222222?style=flat&logo=amazon&logoColor=F1B924&color=4C4C4C)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=rodrigo-engineer&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=seniordevsecops&show_icons=true)
 
 <p style="text-align:right">
     <img src="http://views.whatilearened.today/views/github/rodrigo-engineer/views.svg"/>
